@@ -1,0 +1,50 @@
+# C# specific
+obj/
+bin/
+*.dbmdl
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.user
+*.vs/
+*.sqlproj.user
+*.suo
+*.bak
+*.tmp
+*.publishsettings
+*.pubxml
+*.csproj.user
+*.obj
+**/TestResults
+
+# React specific
+node_modules/
+build/
+dist/
+npm-debug.log
+*.env
+.DS_Store
+*.log
+.cache/
+yarn-error.log
+yarn.lock
+coverage/
+tests/
+public/
+
+# VS Code specific
+.vscode/
+*.code-workspace
+*.launch.json
+*.settings.json
+*.jsconfig.json
+
+# Rider specific
+.idea/
+*.csproj.DotSettings
+*.csproj.user.DotSettings
+*.sln.DotSettings
+*.sln.DotSettings.user
+*.csproj.DotSettings.user
