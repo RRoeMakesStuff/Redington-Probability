@@ -12,5 +12,7 @@ The API can be started using the command `docker-compose up` from the root direc
 
 ## Running the UI
 Once the API container is active, navigate to the `probability-ui` folder in your terminal, and run the following commands
+
 `npm install`
+
 `npm start`
